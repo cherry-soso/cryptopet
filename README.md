@@ -1,5 +1,6 @@
 ## Introduction
 
+Discord: amor#7155
 
 CryptoPets is a pet store developed based on the Aleo chain, where players can anonymously adopt their favorite pets on it. Each pet has a unique identifier on the chain, which guarantees the uniqueness and scarcity of the pet. Players can feed and train their pets to enhance their abilities and values.
 
